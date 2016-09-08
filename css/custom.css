@@ -123,3 +123,17 @@ h2 {
 .table{
     max-width: 500px;
 }
+
+#column-wide{
+    width: 40%;
+}
+
+#column-narrow{
+    width: 30%;
+}
+
+#upper-header{
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+}
