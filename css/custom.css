@@ -137,3 +137,11 @@ h2 {
     font-weight: normal;
     text-align: center;
 }
+
+.table-responsive{
+    text-align: center;
+}
+
+.table{
+    display: inline-table;
+}
